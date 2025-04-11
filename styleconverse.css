@@ -199,13 +199,11 @@ video{
 }
 
 .feature-item i {
-  font-size: 18px;
+  font-size: 40px; /* Puedes ajustar el tamaño aquí según lo necesites */
   color: white;
   margin-top: 5px;
-  min-width: 20px;
-  position: relative;
-  top: 30%;
 }
+
 
 .feature-text {
   color: white;
